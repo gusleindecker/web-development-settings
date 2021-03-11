@@ -14,6 +14,6 @@ This are my Visual Studio Code settings.
 | [Material Theme Icons](https://github.com/material-theme/vsc-material-theme-icons)         | Icons theme for VS Code and Material Theme. |
 | [Community Material Theme](https://github.com/material-theme/vsc-community-material-theme) | Community maintained Material Theme.        |
 
-## User setting
+## User settings
 
 See [settings.json](https://github.com/gusleindecker/vscode-settings/blob/main/settings.json)
