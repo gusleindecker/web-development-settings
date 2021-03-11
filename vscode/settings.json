@@ -1,0 +1,25 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.renderCharacters": false,
+  "editor.tabSize": 2,
+  "eslint.alwaysShowStatus": true,
+  "prettier.printWidth": 120,
+  "prettier.vueIndentScriptAndStyle": true,
+  "telemetry.enableTelemetry": false,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Material Theme High Contrast",
+  "workbench.iconTheme": "eq-material-theme-icons"
+}

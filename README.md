@@ -1,2 +1,2 @@
 # web-development-settings
-My personal settings
+My personal development settings
